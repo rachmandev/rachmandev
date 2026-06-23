@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/rachmandev"><img src="https://img.shields.io/badge/LinkedIn-rachmandev-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/rachmandev"><img src="https://img.shields.io/badge/GitHub-rachmandev-black?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.threads.net/@rachman.dev"><img src="https://img.shields.io/badge/Threads-@rachman.dev-black?style=flat-square&logo=threads" alt="Threads"></a>
-  <a href="mailto:info@rachman.dev"><img src="https://img.shields.io/badge/Email-info%40rachman.dev-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:rachman@rachman.dev"><img src="https://img.shields.io/badge/Email-rachman%40rachman.dev-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
@@ -33,10 +33,10 @@ I am a passionate **DevOps Engineer** based in Bandung, Indonesia. I specialize 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://proxmox.com" target="_blank" rel="noreferrer">
-    <img src="https://proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" alt="proxmox" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/proxmox.svg" alt="proxmox" width="40" height="40"/>
   </a>
   <a href="https://xcp-ng.org" target="_blank" rel="noreferrer">
-    <img src="https://xcp-ng.org/assets/img/smalllogo.png" alt="xcp-ng" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/xen-orchestra.svg" alt="xcp-ng" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -110,23 +110,9 @@ I am a passionate **DevOps Engineer** based in Bandung, Indonesia. I specialize 
 
 ---
 
-### 🎓 Certifications
-
-| Certificate | Issuer | Date | Credential ID |
-| :--- | :--- | :--- | :--- |
-| **DevOps Engineer (Expert)** | DBS Foundation Coding Camp 2023 | Jan 3, 2024 | - |
-| **DevOps Engineer (Intermediate)** | DBS Foundation Coding Camp 2023 | Oct 30, 2023 | - |
-| **Belajar Dasar-Dasar DevOps** | Dicoding | May 17, 2023 | `MRZMQLOQLPYQ` |
-| **Belajar Jaringan Komputer untuk Pemula** | Dicoding | May 19, 2023 | `07Z6VWL52XQR` |
-| **Menjadi Linux System Administrator** | Dicoding | Jul 18, 2023 | `1RXY6DG0MZVM` |
-| **Belajar Implementasi CI/CD** | Dicoding | Jul 9, 2023 | `MEPJVMR2WP3V` |
-| **Arsitektur Microservices (Belajar Membangun Arsitektur Microservices)** | Dicoding | Nov 11, 2023 | `81P27Y288ZOY` |
-
----
-
 ### 📬 Get in Touch
 *   **Location:** Bandung, Indonesia
-*   **Email:** [info@rachman.dev](mailto:info@rachman.dev)
+*   **Email:** [ rachman@rachman.dev](mailto:rachman@rachman.dev)
 *   **Website:** [rachman.dev](https://rachman.dev)
 *   **LinkedIn:** [linkedin.com/in/rachmandev](https://www.linkedin.com/in/rachmandev)
 *   **GitHub:** [github.com/rachmandev](https://github.com/rachmandev)
