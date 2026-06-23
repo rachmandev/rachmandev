@@ -33,10 +33,10 @@ I am a passionate **DevOps Engineer** based in Bandung, Indonesia. I specialize 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://proxmox.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" alt="proxmox" width="40" height="40"/>
+    <img src="https://proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" alt="proxmox" height="40"/>
   </a>
   <a href="https://xcp-ng.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xen/xen-original.svg" alt="xcp-ng" width="40" height="40"/>
+    <img src="https://xcp-ng.org/assets/img/smalllogo.png" alt="xcp-ng" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
